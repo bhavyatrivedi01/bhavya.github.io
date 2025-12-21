@@ -33,7 +33,7 @@ I am passionate about building scalable cloud solutions and optimizing ITIL proc
 
 ### 🧪 Featured Projects
 
-#### 🩸 [Blood Donation Cloud Solution](https://github.com/yourusername/project-link)
+#### 🩸 [Blood Donation Cloud Solution](https://github.com/bhavyatrivedi01/Blood-Donation-Cloud-Solution-Azure.git)
 *Applied Research Project with Sask Polytech & CBS*
 - Developed a cloud-based architecture to streamline donor searches and real-time location mapping.
 - Implemented DevOps automation to provide data-driven insights for blood donation campaigns.
