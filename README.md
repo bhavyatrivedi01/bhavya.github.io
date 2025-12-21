@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 I am a **Project Management** and **Cloud/Blockchain** specialist currently based in Regina, SK. With a background in Computer Science and hands-on experience in technical support at **SaskTel**, I bridge the gap between complex technical infrastructure and strategic project execution. 
-
+**Certified ITIL v4 and Microsoft Azure professional** with a proven track record of transforming raw data into actionable business insights. Expert in leveraging **Power BI and Excel to drive operational efficiency, evidenced by a **15% reduction in service resolution times** at SaskTel. Combines a technical background in Computer Science with a Post-Graduate in Project Management to mitigate risks and deliver high-impact solutions in fast-paced environments.
 I am passionate about building scalable cloud solutions and optimizing ITIL processes to improve service delivery.
 
 - 🎓 **Post-Grad:** Project Management & Cloud Computing @ Saskatchewan Polytechnic
