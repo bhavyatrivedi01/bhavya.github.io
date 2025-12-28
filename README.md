@@ -1,4 +1,4 @@
-# 🚀 Bhavya Trivedi | Cloud Architect & Project Management Professional
+# Hi there, I'm Bhavya Trivedi! 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
