@@ -8,12 +8,11 @@
 
 ---
 
-### 💡 About Me
-I am a specialized **Project Manager** and **Cloud/Blockchain Expert** with a focus on bridging technical complexity with business efficiency. Currently, I am leveraging my background in **ITIL v4** and **Cloud Infrastructure** at **SaskTel** and conducting applied research for **Canadian Blood Services**.
+### 🚀 About Me
+I am a **Project Management** and **Cloud/Blockchain** specialist currently based in Regina, SK. With a background in Computer Science and hands-on experience in technical support at **SaskTel**, I bridge the gap between complex technical infrastructure and strategic project execution. 
+**Certified ITIL v4 and Microsoft Azure professional** with a proven track record of transforming raw data into actionable business insights. Expert in leveraging **Power BI and Excel to drive operational efficiency, evidenced by a **15% reduction in service resolution times** at SaskTel. Combines a technical background in Computer Science with a Post-Graduate in Project Management to mitigate risks and deliver high-impact solutions in fast-paced environments.
+I am passionate about building scalable cloud solutions and optimizing ITIL processes to improve service delivery.
 
-- 🎓 **Education:** Post-Grad in Project Management & Cloud Computing @ Saskatchewan Polytechnic.
-- 🛠️ **Current Role:** Service Technician (Tech Support) @ SaskTel.
-- 🔬 **Research:** Scholar developing cloud solutions for national blood donation logistics.
 
 ---
 
