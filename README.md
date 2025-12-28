@@ -1,9 +1,9 @@
 # Hi there, I'm Bhavya Trivedi! 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/Portfolio-Landing%20Page-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/bhavyatrivedi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="bhavyatrivedi01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bhavyatrivedi01.github.io/bhavya.github.io/"><img src="https://img.shields.io/badge/Portfolio-Landing%20Page-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
