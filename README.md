@@ -50,5 +50,5 @@ I am passionate about building scalable cloud solutions and optimizing ITIL proc
 ---
 <p align="center">
   <i>"Driven by data, managed by experience."</i><br>
-  © 2024 Bhavya Trivedi
+  © 2026 Bhavya Trivedi
 </p>
