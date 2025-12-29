@@ -32,7 +32,7 @@ I am passionate about building scalable cloud solutions and optimizing ITIL proc
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**🩸 Blood Donation Cloud Platform**](https://github.com/bhavyatrivedi01/Blood-Donation-Cloud-Solution-Azure) | **Applied Research.** A real-time donor mapping and self-serve platform for CBS. | AWS, DevOps, Python, Map APIs |
+| [**🩸 Blood Donation Cloud Platform**](https://github.com/bhavyatrivedi01/Blood-Donation-Cloud-Solution-Azure) | **Applied Research.** A real-time donor mapping and self-serve platform for CBS. | Azure, DevOps, Python, Docker , Ubuntu , containerization |
 | [**📅 BookMySpot App**](https://github.com/yourusername/project2) | **Project Management.** Led Agile product backlog development for resource scheduling. | Agile, Jira, MS Dynamics |
 | [**🛡️ Operationalizing MITRE ATT&CK**](https://github.com/yourusername/project3) | **Cybersecurity.** Identifying and mitigating threats within Active Directory infrastructure. | Active Directory, Splunk, MITRE |
 | [**⚙️ CI/CD Pipeline Implementation**](https://github.com/yourusername/project4) | **DevOps.** Automated deployment using Jenkins, Kubernetes, and Ansible. | Jenkins, Docker, Kubernetes |
@@ -46,12 +46,6 @@ I am passionate about building scalable cloud solutions and optimizing ITIL proc
 - ✅ **Splunk Fundamentals** & **MITRE ATT&CK Foundations**
 
 ---
-
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=nord" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=nord" width="300" />
-</p>
 
 ---
 <p align="center">
