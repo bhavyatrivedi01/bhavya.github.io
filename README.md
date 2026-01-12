@@ -33,7 +33,7 @@ I am passionate about building scalable cloud solutions and optimizing ITIL proc
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**🩸 Blood Donation Cloud Platform**](https://github.com/bhavyatrivedi01/Blood-Donation-Cloud-Solution-Azure) | **Applied Research.** A real-time donor mapping and self-serve platform for CBS. | Azure, DevOps, Python, Docker , Ubuntu , containerization |
-| [**📅 BookMySpot App**](https://github.com/yourusername/project2) | **Project Management.** Led Agile product backlog development for resource scheduling. | Agile, Jira, MS Dynamics |
+| [**📅 BookMySpot App**](https://github.com/yourusername/project2) | **Project Management.**  Working in Agile Based Team and Develop Application. | Agile, Jira, MS Dynamics, Mockflow, WireFrame |
 | [**🛡️ MLOPS Implementation**](https://github.com/bhavyatrivedi01/Hello-World-MLOPS.git) | **ML-OPS.** Creation of CI/CD pipeline for deployment of data model and run into docker container , to automate Machine Learning Life cycle | Docker, GitAction, MLFlow , DVC , AWS , python|
 | [**⚙️ CI/CD Pipeline Implementation**](https://github.com/yourusername/project4) | **DevOps.** Automated deployment using Jenkins, Kubernetes, and Ansible. | Jenkins, Docker, Kubernetes |
 
